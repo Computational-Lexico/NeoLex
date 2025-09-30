@@ -1,0 +1,19 @@
+streamlit
+pandas
+numpy
+matplotlib
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add requirements.txt
