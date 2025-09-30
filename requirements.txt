@@ -2,17 +2,4 @@ streamlit
 pandas
 numpy
 matplotlib
-
-
-
-
-
-
-
-
-
-
-
-
-
 requirements.txt
