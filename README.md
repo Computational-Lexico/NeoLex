@@ -1,21 +1,28 @@
-NeoLex
-Overview
+# NeoLex
 
-NeoLex is a computational lexicography project dedicated to the identification, analysis, and modeling of neological units from Chinese and Vietnamese corpora.
-The project combines corpus linguistics, natural language processing (NLP), and lexical modeling, with an orientation toward terminology and neology studies.
+## Overview
 
-The repository contains:
+**NeoLex** is a computational lexicography project dedicated to the identification,
+analysis, and modeling of neological units from **Chinese and Vietnamese corpora**.
+The project combines **corpus linguistics**, **natural language processing (NLP)**,
+and **lexical modeling**, with a particular focus on **terminology and neology studies**.
 
-corpus data,
+---
 
-Jupyter notebooks documenting each processing step,
+## Repository Contents
 
-Python scripts for lexical exploration,
+The repository includes:
 
-structured JSON outputs for neological resources.
+- Corpus data (raw and cleaned)
+- Jupyter notebooks documenting each processing step
+- Python scripts for lexical exploration
+- Structured JSON outputs for neological resources
 
+---
 
-Repository Structure
+## Repository Structure
+
+```text
 NeoLex/
 │
 ├── Corpus_data/
@@ -60,49 +67,57 @@ NeoLex/
 └── README.md
 
 
-Workflow
+## Workflow
 
 The project follows a step-by-step pipeline:
 
-Corpus collection (web scraping, data selection)
-
-Corpus preprocessing
-
-Tokenization
-
-Neological unit identification
-
-Lexical structuring (JSON)
-
-Evaluation
+1. Corpus collection (web scraping, data selection)
+2. Corpus preprocessing
+3. Tokenization
+4. Neological unit identification
+5. Lexical structuring (JSON)
+6. Evaluation
 
 Each step is documented in a dedicated Jupyter notebook.
 
-Technologies
+---
 
-Python 3
+## Technologies
 
-Jupyter Notebook
+- Python 3
+- Jupyter Notebook
+- NLP libraries for Chinese and Vietnamese processing
+- JSON for lexical resource representation
 
-NLP libraries for Chinese and Vietnamese processing
+---
 
-JSON for lexical resource representation
+## Installation
 
 Install dependencies with:
 
+```bash
 pip install -r requirements.txt
 
-Status
+## Status
 
-This project is research-oriented and under active development.
+This project is **research-oriented** and currently **under active development**.
 
+---
 
-Project Team
+## Project Team
 
-Project Lead: Huy-Linh DAO (CRLAO, CNRS – INALCO)
+- **Project Lead**:  
+  Huy-Linh DAO  
+  (CRLAO, CNRS – INALCO)
 
-Developer / Main Contributor: Lian CHEN 陈恋 (CRLAO, CNRS – INALCO & LLL, University of Orléans)
+- **Developer / Main Contributor**:  
+  Lian CHEN 陈恋  
+  (CRLAO, CNRS – INALCO & LLL, University of Orléans)
 
-Collaborator: Damien NOUVEL (ERTIM, INALCO)
+- **Collaborator**:  
+  Damien NOUVEL  
+  (ERTIM, INALCO)
 
-Technical Support: Alexandre DELAPORTE (CNRS, CRLAO – INALCO)
+- **Technical Support**:  
+  Alexandre DELAPORTE  
+  (CNRS, CRLAO – INALCO)
