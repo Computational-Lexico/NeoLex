@@ -65,8 +65,8 @@ NeoLex/
 │   └── Project dependencies
 │
 └── README.md
+```
 
----
 ## Workflow
 
 The project follows a step-by-step pipeline:
