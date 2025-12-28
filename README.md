@@ -66,7 +66,7 @@ NeoLex/
 │
 └── README.md
 
-
+---
 ## Workflow
 
 The project follows a step-by-step pipeline:
