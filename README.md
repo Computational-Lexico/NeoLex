@@ -123,4 +123,4 @@ This project is **research-oriented** and currently **under active development**
 
 - **Technical Support**:  
   Alexandre DELAPORTE  
-  (CNRS, CRLAO – INALCO)
+  (CNRS, CRLAO – EHESS)
