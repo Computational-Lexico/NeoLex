@@ -1,5 +1,5 @@
 # NeoLex
-
+Neology, Lexicology & Lexicography
 ## Overview
 
 **NeoLex** is a computational lexicography project dedicated to the identification,
