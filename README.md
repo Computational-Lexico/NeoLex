@@ -1,5 +1,7 @@
 # NeoLex
 Neology, Lexicology & Lexicography
+(Funded by CNRS-CRLAO-EHESS)
+
 ## Overview
 
 **NeoLex** is a computational lexicography project dedicated to the identification,
