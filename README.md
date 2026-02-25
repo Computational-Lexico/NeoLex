@@ -118,7 +118,7 @@ This project is **research-oriented** and currently **under active development**
 
 - **Developer / Main Contributor**:  
   Lian CHEN 陈恋  
-  (CRLAO, CNRS – INALCO & LLL, University of Orléans)
+  (CRLAO, CNRS – EHESS - INALCO & LLL, University of Orléans)
 
 - **Collaborator**:  
   Damien NOUVEL  
