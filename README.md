@@ -1,5 +1,6 @@
 # NeoLex
 Neology, Lexicology & Lexicography
+
 (Funded by CNRS-CRLAO-EHESS)
 
 ## Overview
